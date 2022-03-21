@@ -1,2 +1,2 @@
 # odin-recipes
-html recipes webpage (first assignment)
+html recipes webpage (first project)
